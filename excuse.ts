@@ -1,0 +1,1 @@
+export const EXCUSE = "The deploy script succeeded; the rollback script was the one that deleted prod.";
